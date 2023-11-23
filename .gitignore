@@ -1,0 +1,28 @@
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Compiled files
+*.class
+
+# Logs
+*.log
+
+# Maven
+target/
+
+# Gradle
+build/
+
+# User-specific files
+*.iml
+*.iws
+*.ipr
+
+# Operating System files
+.DS_Store
+Thumbs.db
